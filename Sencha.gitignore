@@ -1,0 +1,20 @@
+# Carpetas de compilación a ignorar
+app/
+build/
+ext/
+sass/
+
+# Archivos o ejecutables a ignorar
+.architect
+.sencha/
+app.*
+build.*
+bootstrap.*
+index.html
+*.apdisk
+*.DS_Store
+*.TemporaryItems
+*.idea
+
+workspace.json
+EmaWeb.xds

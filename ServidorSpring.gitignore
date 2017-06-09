@@ -1,0 +1,34 @@
+# Eclipse
+.classpath
+.project
+.settings/
+/src/main/resources/static
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
+# Carpetas de compilado de sencha y netbeans
+src/test
+src/main/resources/static
+nbproject/private/
+web/app/
+web/cambioPass/
+web/css/
+web/js/
+web/res/
+web/resources/
+web/Skirtle/
+web/web/
+web/ux/
+web/app.js
+/build/
+/dist/
